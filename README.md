@@ -39,4 +39,4 @@ Vanilla HTML · CSS · JavaScript — no dependencies.
 
 ---
 
-Built by [JG Graphic LLC](https://jg-graphic.com)
+Built for [JG Graphic LLC](https://jg-graphic.com)
